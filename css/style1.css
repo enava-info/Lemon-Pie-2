@@ -1,0 +1,22 @@
+.img-logo{
+    background-image: url(../img/Grouplogo.png);
+    background-repeat: no-repeat;
+    width: 93px;
+    height: 34.7px;
+    top: 10.03px;
+    left: 8px;
+    background-position: left;
+
+
+}
+
+.img-lemonpie{
+    background-image: url(../img/lemon-pie\ 1lemon.png);
+    background-repeat: no-repeat;
+    width: 650px;
+    height: 375px;
+    top: 84px;
+    left: 8px;
+    
+
+}
